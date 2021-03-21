@@ -1,0 +1,6 @@
+{
+  "testes/test_Cliente.py": true, 
+  "testes/test_Ecommerce.py": true, 
+  "testes/test_Pedido.py": true, 
+  "testes/test_Produto.py": true
+}
